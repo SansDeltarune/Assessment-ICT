@@ -1,0 +1,23 @@
+body {background-color: rgb(0, 0, 0);}
+h1 {color: rgb(255, 255, 255)}
+p {color: rgb(255, 255, 255)}
+h3 {color: rgb(255, 255, 255)}
+li {color: rgb(255, 255, 255)}
+#intro {background-color: rgb(128, 128, 128)}
+h3 {background-color: rgb(128, 128, 128)}
+#picture1 {
+  width:200px;
+  height:964px;
+}
+#hexa {
+  width:250px;
+  height:250px;
+}
+#square1 {
+  width:500px;
+  height:894px;
+}
+#square2 {
+  width:100px;
+  height:40px;
+}
